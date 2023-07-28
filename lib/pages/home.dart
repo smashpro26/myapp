@@ -33,7 +33,7 @@ class HomePage extends StatelessWidget {
                 suffixIcon: Padding(
                   padding: const EdgeInsets.all(12),
                   child: SvgPicture.asset(
-                    'assets/search.svg',
+                    'assets/filter.svg',
                     width: 20,
                     height: 20,
                   ),
